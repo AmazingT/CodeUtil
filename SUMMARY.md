@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [JavaScript知识总结](README.md)
 
