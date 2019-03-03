@@ -1,4 +1,2 @@
 # JavaScript知识总结
-
-## \[gitbook测试\]
-
+[前言](README.md)
